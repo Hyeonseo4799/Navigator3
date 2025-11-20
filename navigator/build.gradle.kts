@@ -46,7 +46,7 @@ publishing {
     publications {
         create<MavenPublication>("release") {
             groupId = "com.github.Hyeonseo4799"
-            artifactId = "Navigator"
+            artifactId = "Navigator3"
             version = "1,0.0"
 
             afterEvaluate {
